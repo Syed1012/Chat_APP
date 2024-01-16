@@ -1,6 +1,7 @@
 # Chat App
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F11700268-Online-Video-chat%2Fattachments%2F3323748%3Fmode%3Dmedia&psig=AOvVaw1rcG0CBQy94HT9mRH9d95E&ust=1705468110646000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDQz_uR4YMDFQAAAAAdAAAAABAI" alt="Girl in a jacket" width="500" height="600">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/667622/screenshots/3760930/smalltalk_invite_illustration.gif">
+<br>
 
 Welcome to Chat App, a real-time chat application built with PHP, MySQL, HTML, CSS, and JavaScript. This app allows users to engage in seamless conversations, fostering communication and collaboration.
 
@@ -44,9 +45,9 @@ To run the Chat App on your local machine, follow these simple steps:
 - **JavaScript:** A scripting language for enhancing the interactivity of the chat application.
 
 ## Screenshots
-
-![Screenshot 1](<your-image-url>)
-![Screenshot 2](<your-image-url>)
+![Screenshot 2024-01-16 105018](https://github.com/Syed1012/Chat_APP/assets/84576013/bad4b843-4d99-4612-b894-d238cd846971)
+![Screenshot 2024-01-16 105201](https://github.com/Syed1012/Chat_APP/assets/84576013/1b9631f5-46a6-48aa-9d3d-716cf07ec423)
+![Screenshot 2024-01-16 105052](https://github.com/Syed1012/Chat_APP/assets/84576013/68c9523f-9c5e-4c67-b656-9ab324c92321)
 
 ## Contributions
 
