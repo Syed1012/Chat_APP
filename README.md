@@ -46,7 +46,9 @@ To run the Chat App on your local machine, follow these simple steps:
 
 ## Screenshots
 ![Screenshot 2024-01-16 105018](https://github.com/Syed1012/Chat_APP/assets/84576013/bad4b843-4d99-4612-b894-d238cd846971)
+<br>
 ![Screenshot 2024-01-16 105201](https://github.com/Syed1012/Chat_APP/assets/84576013/1b9631f5-46a6-48aa-9d3d-716cf07ec423)
+<br>
 ![Screenshot 2024-01-16 105052](https://github.com/Syed1012/Chat_APP/assets/84576013/68c9523f-9c5e-4c67-b656-9ab324c92321)
 
 ## Contributions
